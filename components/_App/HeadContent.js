@@ -11,13 +11,13 @@ export default () => (
       rel="icon"
       type="image/png"
       sizes="32x32"
-      href="/static/favicon/favicon-32x32.png"
+      href="/static/logos.jpg"
     />
     <link
       rel="icon"
       type="image/png"
       sizes="16x16"
-      href="/static/favicon/favicon-16x16.png"
+      href="/static/logos.jpg"
     />
     <link rel="manifest" href="/static/favicon/site.webmanifest" />
     <link
@@ -38,13 +38,13 @@ export default () => (
       rel="icon"
       type="image/png"
       sizes="32x32"
-      href="/static/favicon/favicon-32x32.png"
+      href="/static/logos.jpg"
     />
     <link
       rel="icon"
       type="image/png"
       sizes="16x16"
-      href="/static/favicon/favicon-16x16.png"
+      href="/static/logos.jpg"
     />
     <link rel="manifest" href="/static/favicon/site.webmanifest" />
     <link
